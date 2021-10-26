@@ -1,3 +1,5 @@
+# <repo_name>
+
 [![Security Pipeline](https://github.com/GuillaumeFalourd/formulas-github/actions/workflows/security_pipeline.yml/badge.svg)](https://github.com/GuillaumeFalourd/formulas-github/actions/workflows/security_pipeline.yml) [![Super Linter](https://github.com/GuillaumeFalourd/formulas-github/actions/workflows/super-linter.yml/badge.svg)](https://github.com/GuillaumeFalourd/formulas-github/actions/workflows/super-linter.yml)
 
 Template to create other Github personal repositories.
