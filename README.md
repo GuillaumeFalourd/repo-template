@@ -10,7 +10,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## 🤝 Contributing
 
-☞ [Guidelines](https://github.com/GuillaumeFalourd/<repo_name>/blob/main/CONTRIBUTING.md)
+☞ If you're interested in contributing to this repository, please follow the [guidelines](https://github.com/GuillaumeFalourd/<repo_name>/blob/main/CONTRIBUTING.md)
 
 ## 🏅 Licensed
 
