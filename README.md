@@ -1,6 +1,6 @@
 # <repo_name>
 
-[![Security Pipeline](https://github.com/GuillaumeFalourd/formulas-github/actions/workflows/security_pipeline.yml/badge.svg)](https://github.com/GuillaumeFalourd/formulas-github/actions/workflows/security_pipeline.yml) [![Super Linter](https://github.com/GuillaumeFalourd/formulas-github/actions/workflows/super-linter.yml/badge.svg)](https://github.com/GuillaumeFalourd/formulas-github/actions/workflows/super-linter.yml) [![Gitleaks](https://github.com/GuillaumeFalourd/repo-template/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/GuillaumeFalourd/repo-template/actions/workflows/gitleaks.yml)
+[![Security Pipeline](https://github.com/GuillaumeFalourd/<repo_name>/actions/workflows/security-pipeline.yml/badge.svg)](https://github.com/GuillaumeFalourd/<repo_name>/actions/workflows/security-pipeline.yml) [![Super Linter](https://github.com/GuillaumeFalourd/<repo_name>/actions/workflows/super-linter.yml/badge.svg)](https://github.com/GuillaumeFalourd/<repo_name>/actions/workflows/super-linter.yml) [![Gitleaks](https://github.com/GuillaumeFalourd/<repo_name>/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/GuillaumeFalourd/<repo_name>/actions/workflows/gitleaks.yml)
 
 ☞ Github repository template to create other personal repositories 🧑‍💻🏗
 
